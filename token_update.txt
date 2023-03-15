@@ -1,0 +1,6 @@
+how to update your git hub personal access token in terminal
+1 save link : "https://www.edgoad.com/2021/02/using-personal-access-tokens-with-git-and-github.html"
+
+2) git config --global user.name "shikharpatil"
+git config --global user.email "shikhar.patil@teambeyondborders.com"
+git config -l
